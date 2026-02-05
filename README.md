@@ -113,3 +113,38 @@ Monthly charges vs churn
 Retention trends
 
 (Dashboard and charts are included in the Excel file and notebook.)
+
+
+▶️ How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/your-username/churn-analysis-project.git
+
+
+Open and run the notebook:
+
+churn_analysis.ipynb
+
+📌 Project Structure
+churn-analysis-project
+ ├── churn_analysis.ipynb
+ ├── churn_analysis.xlsx
+ ├── README.md
+ └── data
+
+🚀 Skills Demonstrated
+
+Customer retention and churn analysis
+
+Cohort and segmentation analysis
+
+Data cleaning and preprocessing
+
+Business insight generation
+
+Data visualization and storytelling
+
+🏁 Conclusion
+
+This project demonstrates how customer churn analysis can support business decision-making in subscription-based models. By identifying churn drivers and retention patterns, businesses can implement data-driven strategies to improve customer lifetime value.
